@@ -1,6 +1,8 @@
 # Driver Timeline Backend
 
 ## Setup Instructions
+This is build using express server.
+
 
 Follow the steps below to run the backend server locally.
 
